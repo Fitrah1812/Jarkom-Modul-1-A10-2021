@@ -333,20 +333,20 @@ Hasil secret.zip adalah sebagai berikut
 Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!  
 
 Menggunakan Capture Filter : **src port 80**  
-![gambar51](https://imgur.com/undefined.png)  
+![gambar51](https://imgur.com/73dmyhm.png)  
 
 ## No 12
 Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
 
 Pertama tama melakukan koneksi dari FileZilla client menuju ke server.  
 Menggunakan capture filter: **port 21**  
-![gambar52](https://imgur.com/undefined.png)  
+![gambar52](https://imgur.com/5M0cctE.png)  
 
 ## No 13
 Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!  
 
 Menggunakan Capture filter : **dst port 443**  
-![gambar53](https://imgur.com/undefined.png)  
+![gambar53](https://imgur.com/yF6zyGh.png)  
 
 ## No 14
 Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!  
